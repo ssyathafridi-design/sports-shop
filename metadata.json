@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Athletics & Equipment Hub",
+  "description": "High-performance sports equipment store featuring real-time inventory management, stock ledger, and bank-grade secure payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
