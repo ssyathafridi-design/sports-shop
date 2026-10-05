@@ -43,7 +43,7 @@ jobs:
       - name: Build static site
         run: npm run build
         env:
-	        BASE_URL: /sports-shop/
+          BASE_URL: /sports-shop/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
